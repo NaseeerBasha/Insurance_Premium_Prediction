@@ -1,0 +1,18 @@
+INFO:2022-08-20 09:27:37,768:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:2022-08-20 09:27:37,768:NumExpr defaulting to 8 threads.
+INFO:2022-08-20 09:32:53,077:Loading dataset done
+INFO:2022-08-20 10:01:45,058:Dataset checking  are done
+INFO:2022-08-20 11:12:28,513:Data Visualization
+INFO:2022-08-20 11:16:13,333:Data Visualization as done
+INFO:2022-08-20 11:17:46,343:finding the skewness
+INFO:2022-08-20 11:18:57,381: skewness treament as done
+INFO:2022-08-20 11:19:33,992:finging Outlier
+INFO:2022-08-20 11:20:52,165:Outlier treatment done
+INFO:2022-08-20 11:33:59,374:Feature engineering done
+INFO:2022-08-20 11:36:14,103:Train Test Split done
+INFO:2022-08-20 11:46:04,446:Linear regression model built successfully
+INFO:2022-08-20 11:48:44,087:Decision Tree model built successfully
+INFO:2022-08-20 11:50:40,599:Random Forest Regressor model built successfully
+INFO:2022-08-20 11:57:27,566:Gradient boosting model built successfully
+INFO:2022-08-20 11:58:57,457:Model Selection done
+INFO:2022-08-20 11:59:23,997:Pickle File generated successfully
